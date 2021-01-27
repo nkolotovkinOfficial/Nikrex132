@@ -3,7 +3,7 @@
 * apt update && apt upgrade
 * pkg install python
 * apt install git
-* git clone https://github.com/nkolotovkinOfficial/Nikrex.git
+* git clone https://github.com/nkolotovkinOfficial/Nikrex132.git
 * cd nikrex
 * pip3 install -r requirements.txt
 ## Запуск
